@@ -9,6 +9,10 @@ Siiiiuuuu!!!!
 | col 1 | col 2
 |===
 
+.Una altra taula
+|===
+| col 1 | col 2 | col 3
+|===
 
 
 
