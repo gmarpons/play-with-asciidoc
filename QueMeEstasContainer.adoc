@@ -9,6 +9,12 @@ Siiiiuuuu!!!!
 | col 1 | col 2
 |===
 
+== Una altra secció
+
+. Una enumeració
+. Fet!
+
+
 
 
 
