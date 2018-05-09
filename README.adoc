@@ -5,3 +5,5 @@ Això és la introducció.
 No és massa llarga.
 
 include::QueMeEstasContainer.adoc[]
+
+include::https://github.com/gmarpons/play-with-asciidoc/raw/master/QueMeEstasContainer.adoc[]
